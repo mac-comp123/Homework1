@@ -13,7 +13,7 @@ turt = turtle.Turtel()
 
 scr.bgcolor("seashell")
 
-tColors = ["light salmon", "light sky blue", "pale green", "liht coral", "pale turquoise", "plum"]
+tColors = ["light salmon", "light sky blue", "pale green", "light coral", "pale turquoise", "plum"]
 
 turt.width(5)
 numRings = 6
