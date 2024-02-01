@@ -22,7 +22,6 @@ for i in range(numRings):
     turt.color(tColors[0])
     radius = 40 * (i + 1)
 
-    
     turt.up()
     turt.forward(radius)
     turt.down()
